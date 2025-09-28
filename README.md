@@ -86,6 +86,5 @@ Die Nutzung von IBM WatsonX unterliegt den Lizenz- und Nutzungsbedingungen von I
 
 Das Projekt kann erweitert werden um:
 
-* Mehrsprachige Transkription
 * Alternative LLMs (z. B. Open Source)
 * Lokale Ausführung ohne API-Zugriff
