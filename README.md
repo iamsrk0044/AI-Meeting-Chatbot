@@ -1,5 +1,3 @@
-# README
-
 ## 1. Projektbeschreibung
 
 Dieses Projekt stellt eine Anwendung zur Verfügung, die Audiodateien transkribiert und mithilfe eines Large Language Models (LLM) die wichtigsten Inhalte extrahiert. Die Spracherkennung erfolgt durch das Modell `openai/whisper-tiny`, während die Analyse durch IBM WatsonX unter Verwendung von LLaMA 3 erfolgt. Die Anwendung wird über eine Gradio-Weboberfläche bereitgestellt.
