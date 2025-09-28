@@ -1,7 +1,3 @@
-Verstanden. Hier ist eine sachlich-wissenschaftlich formulierte Version des **README**-Texts, ohne Emojis oder übertriebene Formatierung, klar gegliedert mit Nummerierung. Ideal für eine akademisch oder professionell wirkende Dokumentation.
-
----
-
 # README
 
 ## 1. Projektbeschreibung
